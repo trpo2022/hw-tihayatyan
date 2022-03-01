@@ -22,7 +22,7 @@ int main() {
   char m3[N];
 
   FILE *file;
-  file = fopen("figures.txt", "r");
+  file = fopen("F.txt", "r");
 
   // Проверка открытия файла
   printf("Открытие файла:");
